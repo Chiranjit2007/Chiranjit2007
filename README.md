@@ -1,5 +1,5 @@
-## Hi there 👋
-
+####  Hi everyone, my name is 👋
+#  Chiranjit Halder
 
 **Chiranjit2007/Chiranjit2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
